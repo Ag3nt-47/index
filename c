@@ -19,7 +19,7 @@ max-height: 300px !important;" align="center" src="https://i.hizliresim.com/9l88
     <p> 
       <img src="http://zonehmirrors.org/defaced/2021/01/27/wothoq.co/i.hizliresim.com/jj1jmD.gif" width="300" height="23" style="margin-left:0px;"> 
       <br>
-      <font face="Iceland" size="8" color="#FFFFFF">Hacked By; </font>  <font face="Iceland" size="8" color="#1FEFF6">Ghost Killer</font>
+      <font face="Iceland" size="8" color="#FFFFFF">Hacked By; </font>  <font face="Iceland" size="8" color="#1FEFF6">Agent47</font>
       <br>
       <font face="Iceland" size="8" color="#FFFFFF"> Turk <font face="Iceland" size="8" color="red">Hack</font> <font face="Iceland" size="8" color="#FFFFFF">Team<br><font face="Iceland" size="8" color="#1FEFF6">Saldı</font><font face="Iceland" size="8" color="red">rı Tim</font><font face="Iceland" size="8" color="#FF7F00">leri</font>
       <br> 
