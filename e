@@ -1,18 +1,22 @@
 <html>
     
 <center><a style="text-decoration:none;" target="_blank" rel="noopener noreferrer"> <font color="white" size="6" face="Iceland"><font face="Denk One" size="5" style="color: white; text-shadow: 0px 1px 6px white;background:url(&#39;https://i.ibb.co/4mHYH6h/zubab.gif&#39;);"></font></center>
-<body style="background-color: #000;">
+<body style="background-color: red">
 <audio id="myAudio"> <source src="https://b.top4top.io/m_2823duhfz1.mp3 " type="audio/ogg"></audio><font style="font-family:Iceberg; text-decoration:bold; text-shadow: 0px 0 0px orangedark, 0px 0px 0 bluedark;" color="white" size="0"></font><font style="font-family:Iceberg; text-decoration:bold; text-shadow: 0px 0 0px orangedark, 0px 0px 0 bluedark;" color="white" size="0"><b></center>
 <!--
 tht ==> https://f.top4top.io/m_2790frcd01.mp3
 -->
+  <body bgcolor="blue"> 
 <center>
+  <body bgcolor="blue"> 
 <head>
+  <body bgcolor="blue"> 
   <meta charset="UTF-8">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Iceland">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Hacked By TurkHackTeam | Saldırı Timleri</title>
+  <title>Hacked By Agent47</title>
   <link rel="icon" type="image/gif" href="https://i.hizliresim.com/4e18ief.png">
+  <body bgcolor="blue"> 
   </head>
   <div align="center">
     <img style="padding:20;max-width: 265px !important;
@@ -21,6 +25,7 @@ max-height: 300px !important;" align="center" src="https://i.hizliresim.com/nj7e
 max-height: 300px !important;" align="center" src="https://i.hizliresim.com/9l88q6h.png" alt="logo">
 </div>
 <script>
+  <body bgcolor="blue"> 
 /*function check(e)
 {
 alert(e.keyCode);
@@ -32,6 +37,7 @@ document.onkeydown = function(e) {
 };
 
 </script>
+  <body bgcolor="blue"> 
 <script type="text/javascript"><!--
 var message="Sorry, right-click has been disabled";function clickIE(){if(document.all){(message);return false;}}
 function clickNS(e){if(document.layers||(document.getElementById&&!document.all)){if(e.which==2||e.which==3){(message);return false;}}}
@@ -53,6 +59,7 @@ if(e.which == 17)
 isCtrl=true;
 if((e.which == 85) || (e.which == 67) &amp;&amp; isCtrl == true)
 {
+
 // alert(&#8216;Keyboard shortcuts are cool!&#8217;);
 return false;
 }
@@ -71,7 +78,7 @@ document.oncontextmenu = mischandler;
 document.onmousedown = mousehandler;
 document.onmouseup = mousehandler;
 </script>
-<body bgcolor="#000">
+<body bgcolor="blue"> 
 <audio src="https://b.top4top.io/m_2823duhfz1.mp3 " loop="1" autoplay="1"></audio>
 <br>
 <div style="text-align:center">
@@ -86,6 +93,7 @@ document.onmouseup = mousehandler;
 "></span> 
 </div>
 <div align="center"> 
+  <body bgcolor="blue"> 
     <p> 
       <img src="https://i.hizliresim.com/jj1jmD.gif" width="280" height="48" style="margin-left:0px;"> 
       <br>
